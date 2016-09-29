@@ -1,0 +1,12 @@
+{
+  "targets": {
+    "target-lol": {
+      "buildenv": "jessie-i386",
+      "buildcmd": "./build.sh"
+    },
+    "target-wat": {
+      "buildenv": "jessie-i386",
+      "buildcmd": "./build.sh"
+    }
+  }
+}
