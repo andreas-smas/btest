@@ -2,6 +2,6 @@
 
 echo "doozer-artifact:outputfile:txt:text/plain:outputfile"
 echo "All is fine so we sleep a bit"
-sleep 10
+sleep 3
 echo "OK DONE"
 exit 0
